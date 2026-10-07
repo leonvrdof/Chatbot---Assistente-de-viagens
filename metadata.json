@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Chatbot Prototype & Usability Tester",
+  "description": "Protótipo navegável e interativo de chatbot no WhatsApp para Designers Conversacionais realizarem testes de usabilidade fiéis ao Figma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
